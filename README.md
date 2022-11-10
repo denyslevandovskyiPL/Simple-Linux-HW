@@ -21,4 +21,4 @@ ABOUT PROGRAM AND HOW TO USE IT:
 		goodDay program takes 0 or 1 parameter(Your name), and wishing a good day for you =)
 
 
-In case you'll have any questions - please let me know via email
+In case you'll have any questions - please let me know via email(denys.levandovskyi@plvision.eu)
