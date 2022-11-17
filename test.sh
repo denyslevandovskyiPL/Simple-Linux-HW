@@ -2,4 +2,4 @@
 
 shopt -s extglob
 
-`rm -rf !(*.ac|*.am|*.c|*.h|*.sh)`
+`sudo rm -rf !(*.ac|*.am|*.c|*.h|*.sh|*.md)`
